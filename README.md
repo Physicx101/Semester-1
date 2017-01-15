@@ -1,2 +1,2 @@
 # Semester-1
-Yang sudah saya pelajari selama semester 1
+Things I've learned in the first semester of CS
